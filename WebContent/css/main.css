@@ -1,0 +1,48 @@
+@CHARSET "ISO-8859-1";
+
+#titlearea {
+	margin-top:-8px;
+	width: 102%;
+	height:40px;
+	margin-left:-8px;
+	background-color: #303030;
+	color:white;
+	font-weight: bolder;
+	font-size: 25px;
+	padding-left: 80px;
+	padding-top: 5px;
+}
+
+#searcharea {
+	width: 96%;
+	height: 75px;
+	margin-left:-8px;
+	background-color: #C6C3B5;
+	padding-top: 40px;
+	padding-left:80px;	
+	border-top-style:outset;
+	border-top-width:1px;
+	border-bottom-style:inset;
+	border-bottom-width:1px;
+}
+
+#container {
+	margin-top:30px;
+	margin-left:80px;
+	width:500px;
+}
+
+#url {
+	color: green;
+	font-size: 14px;
+}
+
+#link {
+	color: green;
+	font-size: 18px;
+}
+
+#contents {
+	margin-top: 2px;
+	font-family: Bookman;
+}
